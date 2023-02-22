@@ -8,25 +8,25 @@ const INITIAL_EXPENSES = [
     id: 'e1',
     title: "Toilet Paper",
     amount: 10.24,
-    date: new Date(2023, 2, 20)
+    date: new Date(2022, 2, 20)
   },
   {
     id: 'e2',
     title: "Sun Glasses",
     amount: 50.20,
-    date: new Date(2023, 1, 20)
+    date: new Date(2021, 1, 20)
   },
   {
     id: 'e3',
     title: "Jordan Sneakers",
     amount: 70.00,
-    date: new Date(2023, 2, 20)
+    date: new Date(2021, 2, 20)
   },
   {
     id: 'e4',
     title: "Kaki Trouser",
     amount: 10.24,
-    date: new Date(2023, 2, 20)
+    date: new Date(2022, 2, 20)
   },
 ]
 
